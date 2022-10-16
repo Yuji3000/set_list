@@ -249,38 +249,12 @@
           1,
           1,
           1,
+          1,
+          1,
           null
         ]
       },
       "/Users/source/Desktop/turing/2mod/set_list/app/helpers/application_helper.rb": {
-        "lines": [
-          1,
-          null
-        ]
-      },
-      "/Users/source/Desktop/turing/2mod/set_list/app/controllers/artists_controller.rb": {
-        "lines": [
-          1,
-          1,
-          2,
-          null,
-          null,
-          1,
-          null,
-          null,
-          null,
-          1,
-          1,
-          1,
-          null,
-          null,
-          1,
-          1,
-          null,
-          null
-        ]
-      },
-      "/Users/source/Desktop/turing/2mod/set_list/app/controllers/application_controller.rb": {
         "lines": [
           1,
           null
@@ -319,8 +293,46 @@
           1,
           null
         ]
+      },
+      "/Users/source/Desktop/turing/2mod/set_list/app/controllers/artists_controller.rb": {
+        "lines": [
+          1,
+          1,
+          3,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          0,
+          0,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          2,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/source/Desktop/turing/2mod/set_list/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          null
+        ]
       }
     },
-    "timestamp": 1665941894
+    "timestamp": 1665944964
   }
 }
